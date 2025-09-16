@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "EEF3EB6D44440AC8FC81F783C8ECE32A",
+	"FriendlyName": "Automated Bio Grinder",
+	"Description": "Same as Bio Grinder but can send resources automatically to dedicated storages&cf_ugcID=1347884",
+	"Category": "UGC",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://legacy.curseforge.com/ark-survival-ascended/mods/automated-bio-grinder",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true
+}
